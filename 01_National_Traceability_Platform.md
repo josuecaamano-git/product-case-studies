@@ -1,8 +1,8 @@
-# Case Study: National Digital Compliance System
+# Case Study: National Traceability Platform
 
 **Role:** Solution Delivery Manager  
 **Duration:** Jan 2019 – Nov 2021  
-**Company:** International security and technology provider  
+**Company:** SICPA 
 **Location:** Switzerland / Latin America  
 **Team size:** 30+ (cross-functional, multi-country)
 
@@ -48,5 +48,3 @@ The project aimed to enhance fiscal transparency, enable data-driven decision-ma
 - Developed stronger leadership and stakeholder management skills applicable to cross-border projects.
 
 ---
-
-_Last updated: October 2025_
